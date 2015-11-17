@@ -14,3 +14,5 @@ If you want to copy our robot and/or terrain, the LEGO Designer and LEGO .rbt fi
 If you want to copy our website (for making a website for your own robot, for example), the code for that is in this repositiory, as we are using GitHub Pages to host the website.
 
 Regardless of what you do with the code, just make sure you reference us (we don't mind if you reference Turnip Robotics or our names: Andrew, Christian and Harry. Both would be nice though). And if your robot breaks, we're not liable. That's all part of the MIT license I'm sure you've read ;)
+
+<sup>Thanks to LinusMediaGroup for the name idea</sup>
