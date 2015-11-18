@@ -7,14 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 1186,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -48,6 +40,8 @@
 	},
 	"file_history":
 	[
+		"/Users/andrewtitmuss/Documents/turniprobotics.github.io/css/index.css",
+		"/Users/andrewtitmuss/Documents/turniprobotics.github.io/index.html",
 		"/Users/andrewtitmuss/Downloads/bootstrap-3.3.5/docs/examples/jumbotron/index.html",
 		"/Users/andrewtitmuss/Documents/C Learning/ex1.c"
 	],
@@ -84,39 +78,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1186,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								356,
-								356
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
