@@ -2,7 +2,7 @@
 
 This is the source code for the Turnip Robotics project
 
-We're Andrew, Christian and Harry from St Patrick's College Sutherland, and this is our Robotics project for our IST class
+We're Andrew, Christian, Harry and Ethan from St Patrick's College Sutherland, and this is our Robotics project for our IST class
 
 Our mission is to create a robot that can traverse through the obstacle courses that the other groups make (including our own) the fastest. We are probably going to base our design off TARS, from the movie Interstellar, unless this design proves completely unfeasable in which case we will change to something else.
 
